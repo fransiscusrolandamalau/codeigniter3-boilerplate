@@ -1,0 +1,9 @@
+{
+	"name": "fransiscusrolandamalau/codeigniter3-boilerplate",
+	"type": "project",
+	"description": "A boilerplate for CodeIgniter applications.",
+	"keywords": ["framework", "codeigniter", "boilerplate"],
+	"require": {
+		"php": "^7.4"
+	}
+}
