@@ -1,10 +1,10 @@
 # CodeIgniter3 Boilerplate
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/fransiscusrolandamalau/codeigniter3-boilerplate/blob/main/LICENSE.txt)
-![GitHub contributors](https://img.shields.io/github/contributors/rappasoft/laravel-boilerplate.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/fransiscusrolandamalau/codeigniter3-boilerplate.svg)
 [![github-stars-image](https://img.shields.io/github/stars/fransiscusrolandamalau/codeigniter3-boilerplate.svg?label=github%20stars)](https://github.com/fransiscusrolandamalau/codeigniter3-boilerplate)
 
-Laravel Boilerplate provides you with a massive head start on any size web application.
+CodeIgniter3 Boilerplate provides you with a massive head start on any size web application.
 
 ## Quick start
   ```bash
@@ -23,7 +23,7 @@ If you come across any issues please [report them here](https://github.com/frans
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel Boilerplate project! Please feel free to make any pull requests, or e-mail me a feature request you would like to see in the future to Fransiscus Rolanda Malau at fransiscusrmalau@gmail.com.
+Thank you for considering contributing to the CodeIgniter3 Boilerplate project! Please feel free to make any pull requests, or e-mail me a feature request you would like to see in the future to Fransiscus Rolanda Malau at fransiscusrmalau@gmail.com.
 
 ## Security Vulnerabilities
 
